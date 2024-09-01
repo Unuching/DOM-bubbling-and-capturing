@@ -1,0 +1,15 @@
+#div1,
+#div2 {
+  height: 200px;
+  width: 600px;
+  background: green;
+  position: relative;
+  padding: 20px;
+}
+#um1,
+#um2 {
+  background-color: #fff;
+  font-size: 20px;
+  border: 1px solid;
+  padding: 20px;
+}
